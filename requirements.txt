@@ -1,0 +1,4 @@
+openai-agents
+mcp<2  # 2.x renamed FastMCP; the course code uses 1.x
+python-dotenv
+pytest
