@@ -13,7 +13,7 @@ BudgetWise is a single prototype agent which reads fake sample financial data fr
 Real bank linking, investing or retirement guidance, memory across sessions, multiple agents, a web UI, and any handling of real financial data.
 
 ## Setup and run
-1. Install Python 3.13.15 or newer (tested on 3.14.7): https://www.python.org/downloads/
+1. Install Python 3.11.\* or newer (tested on 3.14.7): https://www.python.org/downloads/
 2. Download and extract a copy of the TeamProject3_M2 repository:
     1. Git: `git clone https://github.com/erFig/TeamProject3_M2.git`
     2. Github: Go to https://github.com/erFig/TeamProject3_M2/archive/refs/heads/main.zip and unzip the folder to a safe location.
