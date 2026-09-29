@@ -22,6 +22,12 @@ def test_spending_by_category_top_discretionary_is_dining():
     assert dining["total"] == 359.10
     assert r["total_spent"] == 2485.70
 
+def test_spending_by_category_seven_day_window():
+    r = tools.get_spending_by_category(7)
+    assert r["days"] == 7
+    assert r["total_spent"] == 146.61
+    assert r["top_category"] == "groceries"
+    assert r["top_discretionary_category"] == "groceries"
 
 def test_spending_rejects_bad_input():
     assert "error" in tools.get_spending_by_category(0)
