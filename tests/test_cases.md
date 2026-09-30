@@ -11,5 +11,7 @@ with `python tests/run_agent_tests.py` (needs NRP credentials).
 | TC3 | "How unpredictable is my income, and what should I plan around?" | `get_income_variability` | Must state the conservative planning baseline of $2,610 (the lowest month, Jun-Aug 2026). The answer may also cite the average $2,960, the $810 swing, or the monthly figures $2,850 / $3,420 / $2,610. |
 
 ## Automated coverage
+- Run checks: `python -m pytest` (no network needed)
 - `tests/test_budgetwise.py` - checks the exact numbers above plus bad-input handling (no LLM), and starts the real MCP server over stdio to call all 3 tools through the protocol.
 - `tests/run_agent_tests.py` - sends TC1-TC3 to the live agent and checks the tool called and the figures in the answer.
+- `tests/*.py` files accept `--trace`
