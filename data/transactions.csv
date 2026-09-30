@@ -1,0 +1,146 @@
+date,description,category,amount
+2026-06-01,Rent,rent,-1100.00
+2026-06-02,Pizza place,dining,-26.00
+2026-06-03,Gym membership,subscriptions,-29.99
+2026-06-03,Movie tickets,entertainment,-45.74
+2026-06-04,Starbucks,dining,-11.92
+2026-06-05,Aldi,groceries,-43.53
+2026-06-05,Credit card payment,debt_payment,-60.00
+2026-06-05,Paycheck - Sample Employer,income,820.00
+2026-06-06,Clothing store,shopping,-42.87
+2026-06-06,Pizza place,dining,-24.64
+2026-06-08,Local bar & grill,dining,-31.27
+2026-06-08,Streaming service,subscriptions,-15.99
+2026-06-09,Taco Bell,dining,-16.97
+2026-06-10,Gas station,transportation,-46.10
+2026-06-12,Gas station,transportation,-41.81
+2026-06-12,Internet,utilities,-65.00
+2026-06-12,Local bar & grill,dining,-18.79
+2026-06-12,Paycheck - Sample Employer,income,640.00
+2026-06-13,Chipotle,dining,-22.28
+2026-06-13,Concert,entertainment,-35.76
+2026-06-14,Publix,groceries,-39.61
+2026-06-15,Local bar & grill,dining,-19.29
+2026-06-18,Taco Bell,dining,-35.49
+2026-06-19,Paycheck - Sample Employer,income,705.00
+2026-06-20,Electric,utilities,-115.58
+2026-06-20,Gas station,transportation,-47.05
+2026-06-22,Clothing store,shopping,-67.13
+2026-06-23,Local bar & grill,dining,-24.52
+2026-06-24,Aldi,groceries,-42.69
+2026-06-24,Walmart Grocery,groceries,-51.22
+2026-06-25,Concert,entertainment,-61.29
+2026-06-25,DoorDash order,dining,-12.78
+2026-06-26,Paycheck - Sample Employer,income,685.00
+2026-06-28,Chipotle,dining,-37.08
+2026-06-28,Golf range,entertainment,-55.59
+2026-06-30,Phone bill,utilities,-85.00
+2026-07-01,Rent,rent,-1100.00
+2026-07-02,DoorDash order,dining,-23.84
+2026-07-03,Gas station,transportation,-38.54
+2026-07-03,Gym membership,subscriptions,-29.99
+2026-07-03,Paycheck - Sample Employer,income,930.00
+2026-07-03,Taco Bell,dining,-42.79
+2026-07-04,Concert,entertainment,-50.89
+2026-07-04,Target,shopping,-38.89
+2026-07-05,Credit card payment,debt_payment,-60.00
+2026-07-05,Local bar & grill,dining,-27.26
+2026-07-05,Pizza place,dining,-14.92
+2026-07-06,Bowling,entertainment,-14.16
+2026-07-08,Streaming service,subscriptions,-15.99
+2026-07-09,Movie tickets,entertainment,-46.65
+2026-07-09,Taco Bell,dining,-18.13
+2026-07-10,Paycheck - Sample Employer,income,870.00
+2026-07-11,Movie tickets,entertainment,-28.09
+2026-07-12,Internet,utilities,-65.00
+2026-07-13,DoorDash order,dining,-17.11
+2026-07-13,Walmart Grocery,groceries,-91.43
+2026-07-17,Amazon order,shopping,-53.54
+2026-07-17,Paycheck - Sample Employer,income,845.00
+2026-07-18,Local bar & grill,dining,-18.72
+2026-07-19,Pizza place,dining,-20.64
+2026-07-19,Starbucks,dining,-42.22
+2026-07-20,Aldi,groceries,-47.24
+2026-07-20,Electric,utilities,-117.34
+2026-07-20,Gas station,transportation,-48.93
+2026-07-21,Aldi,groceries,-68.08
+2026-07-21,Starbucks,dining,-23.64
+2026-07-22,Gas station,transportation,-39.18
+2026-07-24,Paycheck - Sample Employer,income,775.00
+2026-07-24,Publix,groceries,-46.82
+2026-07-25,Chipotle,dining,-40.86
+2026-07-27,Chipotle,dining,-17.47
+2026-07-29,Target,shopping,-36.44
+2026-07-30,Phone bill,utilities,-85.00
+2026-07-30,Pizza place,dining,-25.98
+2026-08-01,Local bar & grill,dining,-29.50
+2026-08-01,Rent,rent,-1100.00
+2026-08-02,Gas station,transportation,-46.61
+2026-08-03,Gym membership,subscriptions,-29.99
+2026-08-04,Walmart Grocery,groceries,-85.45
+2026-08-05,Credit card payment,debt_payment,-60.00
+2026-08-05,Walmart Grocery,groceries,-79.18
+2026-08-07,Amazon order,shopping,-24.79
+2026-08-07,Local bar & grill,dining,-36.94
+2026-08-07,Paycheck - Sample Employer,income,610.00
+2026-08-08,Chipotle,dining,-17.91
+2026-08-08,Clothing store,shopping,-74.52
+2026-08-08,Gas station,transportation,-33.15
+2026-08-08,Streaming service,subscriptions,-15.99
+2026-08-08,Taco Bell,dining,-11.37
+2026-08-12,Internet,utilities,-65.00
+2026-08-13,Pizza place,dining,-33.05
+2026-08-14,Paycheck - Sample Employer,income,680.00
+2026-08-15,Local bar & grill,dining,-25.70
+2026-08-16,Chipotle,dining,-45.19
+2026-08-16,Golf range,entertainment,-39.88
+2026-08-16,Local bar & grill,dining,-15.11
+2026-08-17,Golf range,entertainment,-27.37
+2026-08-17,Local bar & grill,dining,-24.66
+2026-08-18,Aldi,groceries,-87.60
+2026-08-18,Taco Bell,dining,-13.75
+2026-08-19,Chipotle,dining,-12.17
+2026-08-19,Taco Bell,dining,-9.27
+2026-08-20,Electric,utilities,-115.56
+2026-08-20,Walmart Grocery,groceries,-64.38
+2026-08-21,Paycheck - Sample Employer,income,655.00
+2026-08-23,Gas station,transportation,-42.73
+2026-08-23,Taco Bell,dining,-35.38
+2026-08-28,Paycheck - Sample Employer,income,665.00
+2026-08-30,Phone bill,utilities,-85.00
+2026-08-30,Target,shopping,-58.33
+2026-09-01,Rent,rent,-1100.00
+2026-09-01,Starbucks,dining,-18.81
+2026-09-02,Aldi,groceries,-73.29
+2026-09-02,Gas station,transportation,-44.72
+2026-09-02,Gas station,transportation,-32.85
+2026-09-02,Local bar & grill,dining,-36.22
+2026-09-03,Golf range,entertainment,-17.29
+2026-09-03,Golf range,entertainment,-33.38
+2026-09-03,Gym membership,subscriptions,-29.99
+2026-09-03,Starbucks,dining,-38.90
+2026-09-03,Taco Bell,dining,-15.15
+2026-09-04,Paycheck - Sample Employer,income,780.00
+2026-09-04,Publix,groceries,-48.35
+2026-09-05,Credit card payment,debt_payment,-60.00
+2026-09-05,Starbucks,dining,-15.79
+2026-09-05,Taco Bell,dining,-19.98
+2026-09-06,Movie tickets,entertainment,-60.12
+2026-09-08,Streaming service,subscriptions,-15.99
+2026-09-11,Paycheck - Sample Employer,income,720.00
+2026-09-12,Internet,utilities,-65.00
+2026-09-13,Chipotle,dining,-15.09
+2026-09-14,Walmart Grocery,groceries,-84.65
+2026-09-15,Taco Bell,dining,-41.36
+2026-09-16,Gas station,transportation,-40.55
+2026-09-16,Starbucks,dining,-16.91
+2026-09-18,Paycheck - Sample Employer,income,745.00
+2026-09-18,Pizza place,dining,-35.58
+2026-09-20,Amazon order,shopping,-47.35
+2026-09-20,Electric,utilities,-107.24
+2026-09-21,Local bar & grill,dining,-39.93
+2026-09-21,Publix,groceries,-41.27
+2026-09-23,Pizza place,dining,-45.83
+2026-09-24,Walmart Grocery,groceries,-81.23
+2026-09-25,Paycheck - Sample Employer,income,690.00
+2026-09-26,Starbucks,dining,-19.55

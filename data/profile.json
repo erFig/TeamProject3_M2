@@ -1,0 +1,13 @@
+{
+  "note": "FAKE SAMPLE DATA for the BudgetWise AI prototype. Not real financial information.",
+  "as_of": "2026-09-28",
+  "current_balance": 1875.25,
+  "next_paycheck_date": "2026-10-09",
+  "savings_buffer": 200.00,
+  "upcoming_bills": [
+    {"name": "Phone bill", "amount": 85.00, "due_date": "2026-09-30"},
+    {"name": "Rent", "amount": 1100.00, "due_date": "2026-10-01"},
+    {"name": "Credit card payment", "amount": 60.00, "due_date": "2026-10-05"},
+    {"name": "Internet", "amount": 65.00, "due_date": "2026-10-12"}
+  ]
+}
